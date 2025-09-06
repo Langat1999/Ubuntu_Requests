@@ -1,4 +1,5 @@
 # Ubuntu Image Fetcher
+![how-to-install-jellyfin-media-server-on-ubuntu-1024x647](https://github.com/user-attachments/assets/ce1d3ef0-27a8-49e9-b1e7-35fffc5298a3)
 
 A Python script for mindfully collecting images from the web. This tool fetches images from provided URLs, saves them to a local directory, and includes features like duplicate detection and automatic filename generation.
 
